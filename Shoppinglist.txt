@@ -1,0 +1,6 @@
+Shoppinglist
+
+*Bread
+*Water
+*Fruit
+*Shampoo
